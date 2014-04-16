@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Macalester</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="action_settings">Settings</string>
+    <string name="Mac_Radio">Mac Radio</string>
+    <string name="Library">Library</string>
+    <string name="map_of_Mac">Map of Mac</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="radio_hint">Click the icon to play</string>
+    <string name="title_activity_mac_radio">W M C N</string>
+    <string name="mac_menu">Cafe Mac Menu</string>
+    <string name="title_activity_mac_menu">Cafe Mac Menu</string>
+    <string name="title_activity_mac_map">Map of Mac</string>
+    <string name="student_radio_logo_description">W M C N FM 91.7</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="macradiodescription">The Macalester student radio W M C N FM 91.7</string>
+    <string name="title_activity_about">About</string>
+    <string name="about_eivind">Eivind Morris Bakke \nebakke@macalester.edu \nCell: 612&#8211;849&#8211;7742</string>
+    <string name="about_haroon">Mohammad Haroon Bokhari \nmbokhari@macalester.edu \nCell: 630&#8211;640&#8211;6208 \nFollow me on twitter: @haroonbokhary</string>
+    <string name="about_dariush">Doriyush I Ubaydi \ndubaydi@macalester.edu \nCell: 715&#8211;410&#8211;0718</string>
+    <string name="rsserror">Something has gone wrong somewhere…</string>
+    <string name="loading">Loading…</string>
+    <string name="button_athletics_web">Visit MacAthletics Webpage</string>
+    <string name="button_athletics_reg_im">Register IM Team</string>
+    <string name="title_activity_athleticsweb">Athleticsweb</string>
+    <string name="title_activity_intramural">Intramural</string>
+    <string name="kickball">Kickball</string>
+    <string name="soccer">Soccer</string>
+    <string name="basketball">Basketball</string>
+    <string name="confirm">Confirm registration</string>
+    <string name="choose"><b>Choose the sport:</b></string>
+
+    <string-array name="mac_Buildings">
+        <item>Campus Center</item>
+        <item>Health and Wellness Center</item>
+        <item>Highlander, The Shop at Macalester</item>
+        <item>Humanities Resource Center</item>
+        <item>Information Technology Services (ITS) Help Desk</item>
+        <item>Leonard Center</item>
+        <item>DeWitt Wallace Library</item>
+        <item>Media Services</item>
+        <item>Mailing Services</item>
+        <item>Bon Appetit</item>
+        <item> Student Accounts Office</item>
+    </string-array>
+    <string-array name="building_descriptions">
+        <item> Info Desk Phone: 651&#8211;696&#8211;6888 \n Website: macalester.edu/campuscenter \n Hours: \n Monday - Friday: 7 am - 1 am  \n Saturday: 8 am - 1 am \n Sunday: 10 am - 1 am \n *Hours subject to change during holidays and breaks</item>
+        <item> Phone: 651&#8211;696&#8211;6275 \n Website: macalester.edu/health \n Location: LEONARD CENTER ROOM 53\n Hours:\n Monday: 9:00 am - 4:45 pm\n Tuesday: 9:00 am - 4:45 pm\n Wednesday: 10:00 am - 4:45 pm\n Thursday: 9:00 am - 4:45 pm\n Friday: 9:00 am - 4:45 pm</item>
+        <item> Phone: 651&#8211;696&#8211;6688 \n Website: macalester.edu/highlander \n Hours: \n Monday - Friday: 9 am - 6 pm\n Saturday: 10 am - 4 pm\n Sunday: 11 am - 3 pm</item>
+        <item> Phone: 651&#8211;696&#8211;6336 \n Website: macalester.edu/its/labs-classrooms/hrc/ \n Fall and spring semester hours:\n Monday - Thursday: 8 am - 10 pm\n Friday: 8 am - 5 pm\n Saturday: 12 pm - 5 pm\n Sunday: 12 pm - 10 pm</item>
+        <item> Phone: 651&#8211;696&#8211;6525 \n Email: helpdesk@macalester.edu \n Website: macalester.edu/its/ \n Hours: \n Monday - Thursday: 8 am - 10 pm \n Friday: 8 am - 5 pm \n Saturday: 10 am - 5 pm \n Sunday: 12 pm - 10 pm</item>
+        <item> Phone: 651&#8211;696&#8211;6457 \n Website: athletics.macalester.edu \n Hours:\n Building:\n Monday - Thursday: 6:30 am - 12:00 am\n Friday: 6:30 am - 9:00 pm\n Saturday: 10:00 am - 9:00 pm\n Sunday: 10:00 am - 12:00 am\n Pool:\n Monday - Friday: 7:30 am - 9:00 am, 11 am - 1 pm, 7:00 pm - 8:30 pm\n Saturday: 1 pm - 4 pm\n Sunday: 1 pm - 4 pm</item>
+        <item> Phone: 651&#8211;696&#8211;6346 \n Website: macalester.edu/library \n Hours:\n Monday - Thursday: 8 am - 1 am\n Friday: 8 am - 10 pm\n Saturday: 11 am - 10 pm \n Sunday: 11 am - 12 am</item>
+        <item> Phone: 651&#8211;696&#8211;6377 \n Website: macalester.edu/mediaservices \n Hours:\n Monday - Thursday 8 am - 10 pm\n Friday 8 am - 5 pm\n Saturday 1 pm - 5 pm\n Sunday 1 pm - 10 pm\n School Break Hours:\n Monday - Friday 8 am - 4 pm</item>
+        <item> Phone: 651&#8211;696&#8211;6294 \n Website: macalester.edu/mailingservices \n Hours:\n Monday - Friday: 8 am - 5 pm\n Saturday 11 am - 2 pm \n *Please note: No postage sales after 4:30 pm. Please plan accordingly.</item>
+        <item> Cafe Mac: 651&#8211;696&#8211;6663 \n Cafe Mac Grille: 651&#8211;696&#8211;6650\n Atrium Market: 651&#8211;696&#8211;6232\n Scottys in the Leonard Center Juice Bar: 651&#8211;696&#8211;8111</item>
+        <item> Phone: 651&#8211;696&#8211;6161 \n Website: macalester.edu/studentaccounts \n Hours:\n Monday - Friday: 8 am - 12 pm and 1 pm - 4 pm</item>
+    </string-array>
+
+    <string name="title_section3">Section 3</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_activity_about_mac_app">AboutMacApp</string>
+    <string name="title_activity_mac_menu_food">MacMenuFood</string>
+    <string name="title_activity_mac_event_details">MacEventDetails</string>
+    <string name="title_activity_mobile_website">MobileWebsite</string>
+
+</resources>

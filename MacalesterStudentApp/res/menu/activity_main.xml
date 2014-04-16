@@ -1,0 +1,32 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item 
+        android:id="@+id/ribbon_mac_events"
+        android:title="Events"
+        android:icon="@drawable/event_icon"></item>
+    <item
+        android:id="@+id/ribbon_mac_radio"
+        android:title="W M C N"
+        android:icon="@drawable/macradioicon"></item>
+    <item 
+        android:id="@+id/ribbon_mac_map"
+        android:title="Map of Mac"
+        android:icon="@drawable/map_icon"></item>
+    <item
+        android:id="@+id/ribbon_mac_menu"
+        android:title="Mac Menu"
+        android:icon="@drawable/cafeteria_icon"></item>
+    <item 
+        android:id="@+id/ribbon_mac_buildings"
+        android:title="Mac Buildings"
+        android:icon="@drawable/building_icon"></item>
+    <item 
+        android:id="@+id/ribbon_mac_athletics"
+        android:title="Mac Athletics"
+        android:icon="@drawable/mac_athletics"></item>
+    <item 
+        android:id="@+id/ribbon_mac_mobile_website"
+        android:title="Mobile Website"
+        android:icon="@drawable/ic_launcher"></item>
+        
+        </menu>
